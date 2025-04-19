@@ -19,7 +19,7 @@ df
 df = ipeadatapy.metadata()
 df
 
-"""A busca é feita como passagem de parametros especificos das funções ***list_series()*** e ***metadata()***"""
+"""A busca é feita com a passagem de parametros específicos das funções ***list_series()*** e ***metadata()***"""
 
 "\n"
 
